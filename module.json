@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationmonkscenenavigation",
+  "title": "CzechTranslationMonkSceneNavigation",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad modulu MonkSceneNavigation.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationMonkSceneNavigation/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationMonkSceneNavigation/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationMonkSceneNavigation/archive/refs/heads/main.zip"
+}
